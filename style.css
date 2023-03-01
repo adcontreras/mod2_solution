@@ -49,10 +49,9 @@
   }
 
   .class-1, .class-2, .class-3, article  {
-    
     float: left;
     border: 1px solid black;
-    background-color: #dfd6d6;
+    background-color: #b8bd99;
     width: 30%; 
     height: 180px;
     margin-left: 15px;
